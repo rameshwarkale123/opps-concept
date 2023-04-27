@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\bin\Debug\netcoreapp3.1\inheristance.exe
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\bin\Debug\netcoreapp3.1\inheristance.deps.json
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\bin\Debug\netcoreapp3.1\inheristance.runtimeconfig.json
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\bin\Debug\netcoreapp3.1\inheristance.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\bin\Debug\netcoreapp3.1\inheristance.dll
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\bin\Debug\netcoreapp3.1\inheristance.pdb
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\obj\Debug\netcoreapp3.1\inheristance.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\obj\Debug\netcoreapp3.1\inheristance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\obj\Debug\netcoreapp3.1\inheristance.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\obj\Debug\netcoreapp3.1\inheristance.AssemblyInfo.cs
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\obj\Debug\netcoreapp3.1\inheristance.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\obj\Debug\netcoreapp3.1\inheristance.dll
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\obj\Debug\netcoreapp3.1\inheristance.pdb
+C:\Users\Rameshwar kale\source\opps_concept\inheristance\obj\Debug\netcoreapp3.1\inheristance.genruntimeconfig.cache

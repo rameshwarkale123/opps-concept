@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\source\opps_concept\oops\bin\Debug\netcoreapp3.1\oops.exe
+C:\Users\Rameshwar kale\source\opps_concept\oops\bin\Debug\netcoreapp3.1\oops.deps.json
+C:\Users\Rameshwar kale\source\opps_concept\oops\bin\Debug\netcoreapp3.1\oops.runtimeconfig.json
+C:\Users\Rameshwar kale\source\opps_concept\oops\bin\Debug\netcoreapp3.1\oops.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\source\opps_concept\oops\bin\Debug\netcoreapp3.1\oops.dll
+C:\Users\Rameshwar kale\source\opps_concept\oops\bin\Debug\netcoreapp3.1\oops.pdb
+C:\Users\Rameshwar kale\source\opps_concept\oops\obj\Debug\netcoreapp3.1\oops.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\source\opps_concept\oops\obj\Debug\netcoreapp3.1\oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\source\opps_concept\oops\obj\Debug\netcoreapp3.1\oops.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\source\opps_concept\oops\obj\Debug\netcoreapp3.1\oops.AssemblyInfo.cs
+C:\Users\Rameshwar kale\source\opps_concept\oops\obj\Debug\netcoreapp3.1\oops.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\source\opps_concept\oops\obj\Debug\netcoreapp3.1\oops.dll
+C:\Users\Rameshwar kale\source\opps_concept\oops\obj\Debug\netcoreapp3.1\oops.pdb
+C:\Users\Rameshwar kale\source\opps_concept\oops\obj\Debug\netcoreapp3.1\oops.genruntimeconfig.cache

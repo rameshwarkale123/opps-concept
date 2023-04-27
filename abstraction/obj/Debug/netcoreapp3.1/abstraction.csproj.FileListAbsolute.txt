@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\bin\Debug\netcoreapp3.1\abstraction.exe
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\bin\Debug\netcoreapp3.1\abstraction.deps.json
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\bin\Debug\netcoreapp3.1\abstraction.runtimeconfig.json
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\bin\Debug\netcoreapp3.1\abstraction.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\bin\Debug\netcoreapp3.1\abstraction.dll
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\bin\Debug\netcoreapp3.1\abstraction.pdb
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\obj\Debug\netcoreapp3.1\abstraction.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\obj\Debug\netcoreapp3.1\abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\obj\Debug\netcoreapp3.1\abstraction.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\obj\Debug\netcoreapp3.1\abstraction.AssemblyInfo.cs
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\obj\Debug\netcoreapp3.1\abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\obj\Debug\netcoreapp3.1\abstraction.dll
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\obj\Debug\netcoreapp3.1\abstraction.pdb
+C:\Users\Rameshwar kale\source\opps_concept\abstraction\obj\Debug\netcoreapp3.1\abstraction.genruntimeconfig.cache
